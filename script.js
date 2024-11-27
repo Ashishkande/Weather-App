@@ -55,3 +55,5 @@ function showPosition(position) {
   console.log(lat);
   console.log(longi);
 }
+
+/* this changes for poe exam */
